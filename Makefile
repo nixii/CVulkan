@@ -4,7 +4,7 @@ CC=clang
 CFLAGS=-Wall
 
 # Target information
-TARGET=main
+TARGET=target/main
 
 # Source files
 SRC=src/main.c
